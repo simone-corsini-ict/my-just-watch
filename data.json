@@ -1,4 +1,135 @@
 {
-  "tv-series": []
-  "films": []
+  "schema_versione": "1.0",
+  "aggiornato_il": "2026-02-10",
+  "preferenze": {
+    "generi_preferiti": ["crime", "thriller", "mistero", "spy", "fantascienza", "fantasy"],
+    "generi_da_evitare": ["teen-drama"],
+    "tono_cercato": ["adulto", "intelligente", "psicologico", "intrigo", "atmosferico"],
+    "tono_da_evitare": ["stupido", "troppo_leggero"]
+  },
+  "visti": {
+    "serie": [
+      {
+        "titolo": "Slow Horses",
+        "giudizio": "adorato",
+        "commento": "Spy thriller brillante, adulto e ironico."
+      },
+      {
+        "titolo": "Ripley",
+        "giudizio": "adorato",
+        "commento": "Atmosfera elegante e psicologica."
+      },
+      {
+        "titolo": "Fringe",
+        "giudizio": "adorato",
+        "commento": "Sci-fi investigativo, molto coinvolgente."
+      },
+      {
+        "titolo": "Dark",
+        "giudizio": "adorato",
+        "commento": "Intricato e adulto, atmosfera top."
+      },
+      {
+        "titolo": "Battlestar Galactica (remake)",
+        "giudizio": "adorato",
+        "commento": "Sci-fi adulto e intenso."
+      },
+      {
+        "titolo": "Stranger Things (stagioni 1-2)",
+        "giudizio": "piaciuto",
+        "commento": "Le prime due stagioni molto buone."
+      },
+      {
+        "titolo": "Caprica",
+        "giudizio": "piaciuto",
+        "commento": "Vista e piaciuta."
+      },
+      {
+        "titolo": "Altered Carbon (stagione 1)",
+        "giudizio": "piaciuto",
+        "commento": "La prima migliore."
+      },
+      {
+        "titolo": "Altered Carbon (stagione 2)",
+        "giudizio": "piaciuto",
+        "commento": "Anche la seconda non è stata male."
+      },
+      {
+        "titolo": "The Diplomat",
+        "giudizio": "piaciuto",
+        "commento": "Vista e piaciuta."
+      },
+      {
+        "titolo": "Jack Ryan",
+        "giudizio": "cosi_cosi",
+        "commento": "Carina come passatempo."
+      },
+      {
+        "titolo": "Reacher",
+        "giudizio": "piaciuto",
+        "commento": "Apprezzata, molto simile ai libri."
+      },
+      {
+        "titolo": "Preacher",
+        "giudizio": "piaciuto",
+        "commento": "Mi è piaciuta."
+      },
+      {
+        "titolo": "Mr. Robot",
+        "giudizio": "adorato",
+        "commento": "Molto bello."
+      },
+      {
+        "titolo": "Bosch",
+        "giudizio": "piaciuto",
+        "commento": "Vista e piaciuta."
+      },
+      {
+        "titolo": "The Boys",
+        "giudizio": "non_piaciuto",
+        "commento": "Dopo un po' mi ha stufato (ho evitato Gen V)."
+      },
+      {
+        "titolo": "Broadchurch",
+        "giudizio": "piaciuto",
+        "commento": "Visto e piaciuto."
+      },
+      {
+        "titolo": "The Fall",
+        "giudizio": "piaciuto",
+        "commento": "Visto e piaciuto."
+      },
+      {
+        "titolo": "Collateral",
+        "giudizio": "piaciuto",
+        "commento": "Visto e piaciuto."
+      },
+      {
+        "titolo": "1899",
+        "giudizio": "cosi_cosi",
+        "commento": "Vista la prima puntata; so che è stata cancellata."
+      }
+    ],
+    "film": [
+      {
+        "titolo": "Il silenzio degli innocenti",
+        "giudizio": "adorato",
+        "commento": "Thriller psicologico top."
+      },
+      {
+        "titolo": "Murder on the Orient Express",
+        "giudizio": "piaciuto",
+        "commento": "Giallo classico stile Agatha Christie."
+      },
+      {
+        "titolo": "Knives Out",
+        "giudizio": "piaciuto",
+        "commento": "Giallo moderno, divertente e intelligente."
+      }
+    ]
+  },
+  "da_vedere": {
+    "serie": [],
+    "film": []
+  },
 }
